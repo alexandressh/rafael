@@ -16,3 +16,8 @@ CSS:
 
 JS:
 A ser definido.
+
+BASH
+ls: Lista arquivos na pasta
+cd <nome pasta>: Navega até a pasta
+cd ..: Volta uma pasta

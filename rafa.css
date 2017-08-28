@@ -1,0 +1,35 @@
+body {
+	width: 100%;
+	background: #CCC;
+	margin: 0px;
+}
+
+.cor{
+	background: #ffd6f4;
+	border: 20px solid #663300;
+	display: flex;
+	justify-content: space-between;
+}
+
+.fotoRafa {
+}
+
+.fotinha{
+	width:205px;
+	height:205px;
+}
+.letras{
+	font-size: 100px;
+	align-self: center;
+}
+
+.wrapper {
+	display: flex;
+}
+
+.wrapper > div {
+	width: 50%;
+	display: flex;
+	justify-content: space-around;
+	padding: 2em;
+}
